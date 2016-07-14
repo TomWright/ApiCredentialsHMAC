@@ -1,0 +1,19 @@
+{
+    "name": "tomwright/api-credentials-hmac",
+    "description": "A simple class that can be used to generate a HMAC token.",
+    "minimum-stability": "dev",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Tom Wright",
+            "email": "contact@tomwright.me"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "TomWright\\Api\\Credentials\\HMAC\\": "src/"
+        }
+    }
+}
